@@ -28,7 +28,9 @@ services:
       retries: 5
       interval: 5s
   langgraph-api:
-    image: hybrid-rag-service
+    build:
+      context: .
+      dockerfile: Dockerfile
     container_name: langgraph-api
     ports:
       - '8123:8000'
