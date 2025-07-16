@@ -78,7 +78,7 @@ uv langgraph dev --allow-blocking
 
 ```bash
 cd backend
-npm run dev uv
+npm run dev
 ```
 
 _The backend API will be available at `http://127.0.0.1:2024\docs`. It will also open a browser window to the FastAPI docs where request can be accessed. For the frontend, open a terminal in the `frontend/` directory and run `npm run dev`. The frontend will be available at `http://localhost:5173/app`_
