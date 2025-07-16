@@ -1,0 +1,11 @@
+id,name,description,turnover,launch_date,country,segment
+4004,Lucky 7 Slots,Classic 3-reel slot game with expanding 7s.,0.05,01/03/2023,Belgium,Low
+4005,Roulette Pro,European roulette with side-bet options.,0.10,15/11/2022,UK,High
+4006,Blackjack Elite,Advanced blackjack with multi-hand options.,0.15,20/05/2023,France,Medium
+4007,Poker Stars,Texas Hold'em with tournament support.,0.20,10/01/2023,UK,High
+4008,Mega Spin,High-volatility slot with bonus rounds.,0.08,12/07/2023,Spain,Low
+4009,Baccarat Pro,Classic baccarat with high-limit tables.,0.12,30/09/2022,Germany,Medium
+4010,Super Keno,Fast-paced keno with progressive jackpots.,0.07,05/04/2023,Belgium,Low
+4011,Craps Deluxe,Modern craps with customizable bets.,0.18,22/12/2022,France,High
+4012,Video Poker,Video poker with multiple variants.,0.09,15/08/2023,UK,Medium
+4013,Dragon Slots,Themed slot with free spin features.,0.06,10/02/2023,Spain,Low
