@@ -44,8 +44,7 @@ Follow these steps to set up the application for local development and testing.
 - **Node.js and npm** (or yarn/pnpm)
 - **Python 3.11+**
 - **API Keys**: The backend agent requires an OpenAI API key.
-  1. Navigate to the `backend/` directory.
-  2. Create a file named `.env` by copying the `backend/.env.example` file.
+  1. Navigate to the main directory.
   3. Open the `.env` file and add your OpenAI API key: `OPENAI_API_KEY="YOUR_ACTUAL_API_KEY"` and your LangSmith API Key: `LANGSMITH_API_KEY=YOUR_API_KEY`
 
 ### Install Dependencies
