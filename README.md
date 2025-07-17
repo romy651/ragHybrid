@@ -113,3 +113,8 @@ Open your browser and navigate to `http://localhost:8123/app/` to see the applic
 - [Shadcn UI](https://ui.shadcn.com/) - For components.
 - [LangGraph](https://github.com/langchain-ai/langgraph) - For building the backend research agent.
 - [Open AI](https://platform.openai.com/docs/models) - LLM for query generation and answer synthesis.
+
+
+## TODO: 
+- Fix the issue with the Docker image
+- Add a reflection node that will analyze the answer from the previous node and fallback to the previous node if the answer is not consistent with the user's input. 
